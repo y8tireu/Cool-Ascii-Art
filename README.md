@@ -124,14 +124,3 @@ Feel free to explore the repo for more art, or add your own by following the [Co
 ```
 
 ---
-
-### Tips for Maintaining an ASCII-Focused Repo
-
-- **Preview often**: Ensure that your ASCII art displays correctly in GitHub (or whichever platform you use).
-- **Encourage consistent formatting**: Provide guidelines or a style guide if you want consistent headings, spacing, or code block usage.
-- **Organize by theme**: If your repo becomes large, consider structuring it by categories (e.g., Animals, Buildings, Logos, etc.) for easier navigation.
-- **Invite community**: ASCII artists love to share. Encourage others to submit PRs or issues with new art or improvements!
-
----
-
-Enjoy your ASCII adventures!
