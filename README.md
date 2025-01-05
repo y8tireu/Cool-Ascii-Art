@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # ASCII Art Repository
 
 Welcome to the **ASCII Art Repository**! This collection is dedicated to showcasing all sorts of creative and playful text-based art. Here, you’ll find a variety of drawings made purely from ASCII or extended text characters.
@@ -94,7 +91,7 @@ Below are a few sample ASCII drawings to get you started. Each drawing is placed
  \_^_/
 ```
 
-### Example 3: Spooky Castle
+### Example 3: Lock
 
 ```
                    .--------.
