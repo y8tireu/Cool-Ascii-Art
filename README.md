@@ -1,6 +1,3 @@
-Below is a sample `README.md` (or similarly named Markdown file) that you can adapt for a repository containing a lot of ASCII drawings. It provides some best practices and examples for displaying and contributing ASCII art.
-
-Feel free to copy this file into your project and modify it to suit your needs!
 
 ---
 
